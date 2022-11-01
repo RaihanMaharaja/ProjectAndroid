@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="mainColor">#FF141923</color>
+    <color name="secondColor">#FFEEBA2B</color>
+    <color name="biruTua">#FF295BB7</color>
+    <color name="biruMuda">#FF5C8BE1</color>
+    <color name="kuningMuda">#FFF5E365</color>
+    <color name="cream">#FFFFF5D6</color>
+
 </resources>

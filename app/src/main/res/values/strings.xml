@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">belajarandroid</string>
+    <string name="Char1">Genos Cyborg</string>
+    <string name="Char2">Eren Yeager</string>
+    <string name="Char3">Gojo Satoru</string>
+    <string name="Char4">Uchiha Sasuke</string>
+    <string name="Char5">Tanjiro Kamado</string>
+    <string name="Char6">Roronoa Zoro</string>
+
+    <string name="Char1_desc">One Punch Man</string>
+    <string name="Char2_desc">Shingeki No Kyojin</string>
+    <string name="Char3_desc">Jujutsu Kaisen</string>
+    <string name="Char4_desc">Naruto Shippuden</string>
+    <string name="Char5_desc">Kimetsu No Yaiba</string>
+    <string name="Char6_desc">One Piece Franchise</string>
 </resources>
