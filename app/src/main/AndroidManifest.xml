@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Belajarandroid"
         tools:targetApi="31">
         <activity
-            android:name=".SolutionChallengeActivity"
+            android:name=".LazyColumn"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Belajarandroid">
